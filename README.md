@@ -1,6 +1,6 @@
-# Django Web Calculator
+# Django Web Calculator with Buttons
 
-A simple web-based calculator built using Django.
+A simple web-based calculator built using Django and JavaScript for interactive functionality.
 
 ## Features
 
@@ -36,10 +36,7 @@ A simple web-based calculator built using Django.
 
 ## Usage
 
-1. Enter the first number.
-2. Enter the second number.
-3. Select the operation.
-4. Click "Calculate" to see the result.
+Click the buttons to enter numbers and select operations. Click "=" to see the result. Click "C" to clear the display.
 
 ## License
 
