@@ -37,7 +37,7 @@ A simple web-based calculator built using Django and JavaScript for interactive 
 ## Usage
 
 Click the buttons to enter numbers and select operations. Click "=" to see the result. Click "C" to clear the display.
-
+![img.png](img.png)
 ## License
 
 This project is licensed under the MIT License.
